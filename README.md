@@ -6,6 +6,3 @@ Created to get a deeper understanding of the mathematics behind Neural Networks.
 
 
 
-
-
-Created by Michael Tanto.
