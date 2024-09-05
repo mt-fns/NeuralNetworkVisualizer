@@ -2,8 +2,6 @@ from main import NeuralNetwork
 import numpy as np
 import pandas as pd
 
-#check if matrix add and subtract work, make a neural network class (input, labels) -> outputs, check to undo activation functions during backprop, make sure indices & layers are correct
-
 data = pd.read_csv('digit-recognizer/train.csv')
 data = np.array(data)
 m, n = data.shape  # m = number of images

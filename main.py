@@ -99,17 +99,3 @@ class NeuralNetwork:
 
 
 
-
-
-
-
-
-""" Code train & Samson is the same derivatives just different placements, 
-code train only use output and first hidden error, 
-gradient descent is the same thing as well,
-m = the amount of training images (m, n = input.shape)"""
-
-
-
-
-
